@@ -1,0 +1,18 @@
+{
+  "id": "ailith",
+  "title": "AI DM",
+  "description": "AI-powered Dungeon Master for Foundry VTT.",
+  "authors": [
+    {
+      "name": "Atropos"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "scripts": [
+    "scripts/module.js"
+  ]
+}
