@@ -14,5 +14,6 @@
   },
   "scripts": [
     "scripts/module.js"
-  ]
+  ],
+  "url": "file://./modules/ailith"
 }
